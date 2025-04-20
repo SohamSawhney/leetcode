@@ -31,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2737-row-with-maximum-ones](https://github.com/SohamSawhney/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
 |  |
 | ------- |
