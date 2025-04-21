@@ -26,6 +26,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SohamSawhney/leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
@@ -49,6 +50,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/SohamSawhney/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SohamSawhney/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
