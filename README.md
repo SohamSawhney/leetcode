@@ -34,6 +34,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -74,4 +75,16 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
