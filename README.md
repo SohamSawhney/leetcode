@@ -30,6 +30,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SohamSawhney/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SohamSawhney/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -91,4 +93,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
