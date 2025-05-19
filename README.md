@@ -38,6 +38,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@
 | [0048-rotate-image](https://github.com/SohamSawhney/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/SohamSawhney/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -108,4 +110,16 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
