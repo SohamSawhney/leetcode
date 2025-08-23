@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
@@ -130,6 +132,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
