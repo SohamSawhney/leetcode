@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SohamSawhney/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
@@ -17,6 +18,7 @@
 | [0001-two-sum](https://github.com/SohamSawhney/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## String
 |  |
@@ -43,6 +45,7 @@
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
@@ -65,6 +68,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +92,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SohamSawhney/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
@@ -109,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
