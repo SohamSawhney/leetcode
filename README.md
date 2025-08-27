@@ -7,11 +7,13 @@
 | [0048-rotate-image](https://github.com/SohamSawhney/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
