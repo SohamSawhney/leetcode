@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/SohamSawhney/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## String
@@ -48,6 +49,7 @@
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
@@ -119,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -171,4 +174,12 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/SohamSawhney/leetcode/tree/master/0820-find-eventual-safe-states) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
