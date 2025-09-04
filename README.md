@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamSawhney/leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SohamSawhney/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
@@ -116,6 +117,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
@@ -128,6 +130,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SohamSawhney/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
