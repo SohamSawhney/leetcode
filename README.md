@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/SohamSawhney/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SohamSawhney/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
@@ -16,6 +17,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SohamSawhney/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
