@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/SohamSawhney/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/SohamSawhney/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
@@ -62,6 +63,7 @@
 | [0152-maximum-product-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
