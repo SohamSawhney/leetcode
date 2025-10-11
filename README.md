@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SohamSawhney/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
@@ -79,6 +80,7 @@
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
@@ -160,6 +162,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +253,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -261,6 +266,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,4 +275,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
