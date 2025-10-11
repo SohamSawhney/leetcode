@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SohamSawhney/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 ## String
@@ -68,6 +69,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SohamSawhney/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
@@ -155,6 +157,7 @@
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
@@ -229,10 +232,12 @@
 | [0053-maximum-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,6 +246,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -254,8 +260,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
