@@ -279,4 +279,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/SohamSawhney/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
