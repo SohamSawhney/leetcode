@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamSawhney/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SohamSawhney/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SohamSawhney/leetcode/tree/master/0035-search-insert-position) |
@@ -139,6 +140,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SohamSawhney/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SohamSawhney/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
@@ -149,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SohamSawhney/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
