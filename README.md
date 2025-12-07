@@ -356,4 +356,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SohamSawhney/leetcode/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SohamSawhney/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
