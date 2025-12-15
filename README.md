@@ -50,6 +50,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/SohamSawhney/leetcode/tree/master/0742-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
