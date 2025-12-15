@@ -209,11 +209,13 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,11 +329,13 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSawhney/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSawhney/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
