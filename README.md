@@ -86,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/SohamSawhney/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SohamSawhney/leetcode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
@@ -118,6 +119,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SohamSawhney/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/SohamSawhney/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SohamSawhney/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -210,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
@@ -219,6 +222,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 ## Depth-First Search
@@ -372,6 +376,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/SohamSawhney/leetcode/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
