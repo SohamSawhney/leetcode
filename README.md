@@ -50,6 +50,7 @@
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0742-to-lower-case](https://github.com/SohamSawhney/leetcode/tree/master/0742-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
@@ -232,6 +233,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SohamSawhney/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Queue
