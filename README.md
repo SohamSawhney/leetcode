@@ -369,12 +369,14 @@
 | [0543-diameter-of-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -386,6 +388,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Queue
