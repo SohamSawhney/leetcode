@@ -223,6 +223,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
@@ -370,6 +371,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/SohamSawhney/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
@@ -386,6 +388,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SohamSawhney/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -402,6 +405,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SohamSawhney/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -415,6 +419,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SohamSawhney/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -453,4 +458,8 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SohamSawhney/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/SohamSawhney/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
