@@ -93,6 +93,7 @@
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/SohamSawhney/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/SohamSawhney/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +220,7 @@
 | [0118-pascals-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/SohamSawhney/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0931-minimum-falling-path-sum) |
