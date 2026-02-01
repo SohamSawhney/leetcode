@@ -19,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SohamSawhney/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SohamSawhney/leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SohamSawhney/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0118-pascals-triangle) |
