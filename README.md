@@ -51,6 +51,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/SohamSawhney/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
@@ -224,6 +225,7 @@
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SohamSawhney/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/SohamSawhney/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0152-maximum-product-subarray) |
