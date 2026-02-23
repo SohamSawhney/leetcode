@@ -42,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SohamSawhney/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSawhney/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -60,6 +61,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0742-to-lower-case](https://github.com/SohamSawhney/leetcode/tree/master/0742-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SohamSawhney/leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Backtracking
 |  |
@@ -121,6 +123,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -200,6 +203,7 @@
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +247,7 @@
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SohamSawhney/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SohamSawhney/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SohamSawhney/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
