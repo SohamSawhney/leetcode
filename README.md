@@ -54,6 +54,7 @@
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/SohamSawhney/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/SohamSawhney/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -245,6 +246,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SohamSawhney/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSawhney/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SohamSawhney/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/SohamSawhney/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SohamSawhney/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/SohamSawhney/leetcode/tree/master/0312-burst-balloons) |
