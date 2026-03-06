@@ -132,6 +132,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SohamSawhney/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SohamSawhney/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SohamSawhney/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -179,6 +180,7 @@
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SohamSawhney/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/SohamSawhney/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -262,6 +264,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/SohamSawhney/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SohamSawhney/leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/SohamSawhney/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SohamSawhney/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SohamSawhney/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SohamSawhney/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
