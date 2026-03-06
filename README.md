@@ -87,6 +87,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SohamSawhney/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
@@ -241,6 +243,7 @@
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SohamSawhney/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/SohamSawhney/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SohamSawhney/leetcode/tree/master/0120-triangle) |
@@ -268,6 +271,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
@@ -281,6 +285,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
