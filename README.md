@@ -302,6 +302,7 @@
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SohamSawhney/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -324,6 +325,7 @@
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -355,6 +357,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/SohamSawhney/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SohamSawhney/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
@@ -534,4 +537,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
