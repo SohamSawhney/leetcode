@@ -42,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SohamSawhney/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
@@ -61,6 +62,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/SohamSawhney/leetcode/tree/master/0742-to-lower-case) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -120,6 +122,7 @@
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SohamSawhney/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
@@ -238,6 +241,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SohamSawhney/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -315,6 +319,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SohamSawhney/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -335,6 +340,7 @@
 | [0542-01-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SohamSawhney/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/SohamSawhney/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -544,6 +550,7 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
