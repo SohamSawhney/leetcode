@@ -321,6 +321,7 @@
 | [0820-find-eventual-safe-states](https://github.com/SohamSawhney/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -341,6 +342,7 @@
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -542,9 +544,11 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/SohamSawhney/leetcode/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SohamSawhney/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
