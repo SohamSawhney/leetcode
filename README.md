@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/SohamSawhney/leetcode/tree/master/0400-nth-digit) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SohamSawhney/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1500-count-largest-group](https://github.com/SohamSawhney/leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SohamSawhney/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/SohamSawhney/leetcode/tree/master/2050-count-good-numbers) |
@@ -69,6 +70,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SohamSawhney/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/SohamSawhney/leetcode/tree/master/1092-shortest-common-supersequence) |
 ## Backtracking
 |  |
