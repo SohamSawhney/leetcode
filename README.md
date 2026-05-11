@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/SohamSawhney/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SohamSawhney/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/SohamSawhney/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/SohamSawhney/leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/SohamSawhney/leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 ## Two Pointers
@@ -574,4 +576,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/SohamSawhney/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SohamSawhney/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
