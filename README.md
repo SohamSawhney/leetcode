@@ -451,6 +451,7 @@
 ## Database
 |  |
 | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/SohamSawhney/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/SohamSawhney/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SohamSawhney/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
