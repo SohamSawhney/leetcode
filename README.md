@@ -154,6 +154,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SohamSawhney/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SohamSawhney/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SohamSawhney/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSawhney/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -181,6 +182,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SohamSawhney/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -202,6 +204,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SohamSawhney/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/SohamSawhney/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/SohamSawhney/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/SohamSawhney/leetcode/tree/master/2737-row-with-maximum-ones) |
