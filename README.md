@@ -142,6 +142,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1004-max-consecutive-ones-iii](https://github.com/SohamSawhney/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SohamSawhney/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -182,6 +183,7 @@
 | [0875-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SohamSawhney/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SohamSawhney/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SohamSawhney/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
