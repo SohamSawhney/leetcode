@@ -87,6 +87,7 @@
 | [0039-combination-sum](https://github.com/SohamSawhney/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/SohamSawhney/leetcode/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0189-rotate-array](https://github.com/SohamSawhney/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SohamSawhney/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/SohamSawhney/leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SohamSawhney/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0283-move-zeroes) |
