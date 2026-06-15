@@ -64,6 +64,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SohamSawhney/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SohamSawhney/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -87,6 +88,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/SohamSawhney/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SohamSawhney/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/SohamSawhney/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -110,6 +112,7 @@
 | [0056-merge-intervals](https://github.com/SohamSawhney/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SohamSawhney/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
@@ -218,6 +221,7 @@
 | [0054-spiral-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SohamSawhney/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SohamSawhney/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SohamSawhney/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -361,6 +365,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
