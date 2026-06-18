@@ -4,7 +4,7 @@ public:
         int left=0;
         int right=0;
         int zerocount=0;
-        int maxlen=0;
+        int maxcount=0;
         int n=nums.size();
         while(right<n){
             if(nums[right]==0){
@@ -14,12 +14,18 @@ public:
                 if(nums[left]==0){
                     zerocount--;
                 }
+
+
                 left++;
             }
-            maxlen=max(maxlen,right-left+1);
-            right++;
-        }
-        return maxlen;
 
+            maxcount=max(maxcount,right-left+1);
+            right++;
+
+        }
+        return maxcount;
+
+
+        
     }
 };
