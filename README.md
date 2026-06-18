@@ -53,6 +53,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SohamSawhney/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/SohamSawhney/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SohamSawhney/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SohamSawhney/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
@@ -160,6 +161,7 @@
 | [0875-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SohamSawhney/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/SohamSawhney/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/SohamSawhney/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1004-max-consecutive-ones-iii](https://github.com/SohamSawhney/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -463,6 +465,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SohamSawhney/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SohamSawhney/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/SohamSawhney/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SohamSawhney/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SohamSawhney/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/SohamSawhney/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -498,6 +501,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SohamSawhney/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/SohamSawhney/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/SohamSawhney/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SohamSawhney/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SohamSawhney/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SohamSawhney/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSawhney/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
