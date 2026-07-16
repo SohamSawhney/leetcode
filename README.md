@@ -94,6 +94,7 @@
 | [1092-shortest-common-supersequence](https://github.com/SohamSawhney/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSawhney/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SohamSawhney/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/SohamSawhney/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SohamSawhney/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SohamSawhney/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
