@@ -45,6 +45,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SohamSawhney/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SohamSawhney/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SohamSawhney/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SohamSawhney/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SohamSawhney/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SohamSawhney/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SohamSawhney/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/SohamSawhney/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
