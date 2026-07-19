@@ -371,6 +371,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/SohamSawhney/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
@@ -398,6 +399,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SohamSawhney/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SohamSawhney/leetcode/tree/master/0207-course-schedule) |
@@ -575,6 +577,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
@@ -610,6 +613,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0226-invert-binary-tree) |
