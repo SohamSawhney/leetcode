@@ -397,6 +397,7 @@
 | [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SohamSawhney/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
@@ -426,6 +427,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SohamSawhney/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/SohamSawhney/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/SohamSawhney/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -576,6 +578,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SohamSawhney/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
@@ -613,6 +616,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SohamSawhney/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SohamSawhney/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SohamSawhney/leetcode/tree/master/0113-path-sum-ii) |
