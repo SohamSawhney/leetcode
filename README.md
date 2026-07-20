@@ -60,6 +60,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/SohamSawhney/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SohamSawhney/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SohamSawhney/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/SohamSawhney/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -324,6 +325,7 @@
 | [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/SohamSawhney/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/SohamSawhney/leetcode/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/SohamSawhney/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/SohamSawhney/leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/SohamSawhney/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -424,6 +426,7 @@
 | [0820-find-eventual-safe-states](https://github.com/SohamSawhney/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SohamSawhney/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/SohamSawhney/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSawhney/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -448,6 +451,7 @@
 | [0801-is-graph-bipartite](https://github.com/SohamSawhney/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SohamSawhney/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/SohamSawhney/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SohamSawhney/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SohamSawhney/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SohamSawhney/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -606,6 +610,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -647,6 +652,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/SohamSawhney/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SohamSawhney/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/SohamSawhney/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
