@@ -6,26 +6,24 @@ public:
         int zerocount=0;
         int maxcount=0;
         int n=nums.size();
-        while(right<n){
-            if(nums[right]==0){
-                zerocount++;
-            }
-            while(zerocount>k){
-                if(nums[left]==0){
-                    zerocount--;
-                }
+       
 
-
-                left++;
-            }
-
-            maxcount=max(maxcount,right-left+1);
-            right++;
-
+       while(right<n){
+        if(nums[right]==0){
+            zerocount++;
         }
-        return maxcount;
+        while(zerocount>k){
+            if(nums[left]==0){
+                zerocount--;
+            }
+        left++;
+        }
 
+        maxcount=max(maxcount,right-left+1);
+        right++;
+       }
 
+       return maxcount;
         
     }
 };
