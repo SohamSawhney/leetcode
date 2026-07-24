@@ -1,24 +1,28 @@
 class Solution {
 public:
 int atmost(vector<int>&nums,int k){
-    int right=0;
     int left=0;
+    int right=0;
     int res=0;
-    while(right<nums.size()){
-        if(nums[right]%2!=0){
-            k--;
-        }
-       while(k<0){
+    int n=nums.size();
+    while(right<n){
+    if(nums[right]%2!=0){
+        k--;
+    }
+    while(k<0){
         if(nums[left]%2!=0){
             k++;
-
         }
         left++;
-       }
-
-        right++;
-        res+=(right-left+1);
+        
     }
+
+    res+=(right-left+1);
+
+    right++;
+
+    }
+
     return res;
 }
     int numberOfSubarrays(vector<int>& nums, int k) {
