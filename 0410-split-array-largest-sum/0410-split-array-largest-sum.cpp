@@ -19,10 +19,10 @@ public:
     int splitArray(vector<int>& nums, int k) {
         int low=*max_element(nums.begin(),nums.end());
         int high=accumulate(nums.begin(),nums.end(),0);
-        while(low<=high){
+        while(low<high){
             int mid=(low+high)/2;
             if(partition(nums,mid)<=k){
-                high=mid-1;
+                high=mid;
             }
             else{
                 low=mid+1;
