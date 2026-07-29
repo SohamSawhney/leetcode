@@ -30,6 +30,7 @@
 | [0050-powx-n](https://github.com/SohamSawhney/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SohamSawhney/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/SohamSawhney/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SohamSawhney/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SohamSawhney/leetcode/tree/master/0342-power-of-four) |
@@ -689,6 +690,7 @@
 | [0086-partition-list](https://github.com/SohamSawhney/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/SohamSawhney/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SohamSawhney/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Iterator
