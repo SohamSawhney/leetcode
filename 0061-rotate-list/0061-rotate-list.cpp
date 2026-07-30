@@ -12,39 +12,40 @@ class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
 
+      if(head==NULL or head->next==NULL or k==0){
+        return head;
+      }
 
-        if(head==NULL || head->next==NULL || k==0){
-            return head;
-        }
-        int len=1;
-        ListNode*tail=head;
-        while(tail->next!=NULL){
-            tail=tail->next;
-            len++;
-        }
+      int len=1;
+      ListNode*tail=head;
+      while(tail->next!=NULL){
+        len++;
+        tail=tail->next;
+      }
+
+      tail->next=head;
+      k=k%len;
+      int steps=len-k;
+
+      ListNode*newHead;
+      ListNode*newTail=head;
+    
+
+      for(int i=1;i<steps;i++){
+
+        newTail=newTail->next;
 
 
-         // to make linkedlist in circular format 
-         k=k%len;
+      }
+
+    newHead=newTail->next;
+    newTail->next=NULL;
 
 
-        if(k==0){
-            return head;
-        }
 
-        tail->next=head;
-        int steps=len-k;
+    return newHead;
 
-       ListNode*newTail=head;
-        for(int i=1;i<steps;i++){
 
-            newTail=newTail->next;
-
-        }
-
-        ListNode*newHead=newTail->next;
-        newTail->next=NULL;
-        return newHead;
 
     }
 };
