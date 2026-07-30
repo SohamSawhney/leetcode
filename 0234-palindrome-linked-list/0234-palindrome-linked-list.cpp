@@ -9,68 +9,55 @@
  * };
  */
 class Solution {
-    private:
-    ListNode*getMid(ListNode*head){
-        ListNode*slow=head;
-        ListNode*fast=head->next;
-        while(fast!=NULL && fast->next!=NULL){
-            fast=fast->next->next;
-            slow=slow->next;
-        }
-        return slow;
-    }
-    ListNode*reversefind(ListNode*head){
-        ListNode*prev=NULL;
-        ListNode*curr=head;
-        ListNode*next=NULL;
-
-        while(curr!=NULL){
-            next=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;
-    }
 public:
+
+
+   ListNode*reverse(ListNode* newHead){
+    ListNode*prev=NULL;
+    ListNode*curr=newHead;
+
+
+ 
+
+    while(curr!=NULL){
+     ListNode* temp=curr->next;
+     curr->next=prev;
+     prev=curr;
+     curr=temp;
+    }
+
+    return prev;
+   }
     bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL){
+        if(head==NULL or head->next==NULL){
             return true;
-        } 
+        }
+        ListNode* slow=head;
+        ListNode*fast=head;
 
-        // find middle 
-        ListNode*middle=getMid(head);
-        ListNode*temp=middle->next;
-
-
-        //finde reverse
-        middle->next=reversefind(temp);
-
-        ListNode*head1=head;
-        ListNode*head2=middle->next;
+        while(fast!=NULL  and fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode*second=reverse(slow);
+        ListNode*first=head;
 
 
 
-        // step 3  find match 
+        // now comparison is done 
 
-        while(head2!=NULL){
-            if(head1->val!=head2->val){
+        while(second!=NULL){
+            if(first->val!=second->val){
                 return false;
             }
 
-            head1=head1->next;
-            head2=head2->next;
+
+            first=first->next;
+            second=second->next;
         }
 
 
-
-
-
-
-        //step 4   repeat step 2        to undo unchanges 
-        ListNode*temp1=middle->next;
-        middle->next=reversefind(temp1);
-
         return true;
+
     }
 };
