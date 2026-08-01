@@ -88,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/SohamSawhney/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SohamSawhney/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SohamSawhney/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/SohamSawhney/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/SohamSawhney/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SohamSawhney/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/SohamSawhney/leetcode/tree/master/0606-construct-string-from-binary-tree) |
@@ -313,6 +314,7 @@
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSawhney/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SohamSawhney/leetcode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/SohamSawhney/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/SohamSawhney/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SohamSawhney/leetcode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/SohamSawhney/leetcode/tree/master/0767-reorganize-string) |
@@ -387,6 +389,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SohamSawhney/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/SohamSawhney/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SohamSawhney/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
@@ -400,6 +403,7 @@
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SohamSawhney/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/SohamSawhney/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
