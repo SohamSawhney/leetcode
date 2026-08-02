@@ -96,6 +96,7 @@
 | [0721-accounts-merge](https://github.com/SohamSawhney/leetcode/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/SohamSawhney/leetcode/tree/master/0742-to-lower-case) |
 | [0767-reorganize-string](https://github.com/SohamSawhney/leetcode/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SohamSawhney/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SohamSawhney/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -399,6 +400,7 @@
 | [0456-132-pattern](https://github.com/SohamSawhney/leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/SohamSawhney/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SohamSawhney/leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SohamSawhney/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
