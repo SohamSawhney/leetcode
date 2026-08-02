@@ -78,6 +78,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SohamSawhney/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SohamSawhney/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/SohamSawhney/leetcode/tree/master/0079-word-search) |
@@ -353,6 +354,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SohamSawhney/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/SohamSawhney/leetcode/tree/master/0053-maximum-subarray) |
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SohamSawhney/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SohamSawhney/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
