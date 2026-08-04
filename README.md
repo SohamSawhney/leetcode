@@ -760,4 +760,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SohamSawhney/leetcode/tree/master/0258-add-digits) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SohamSawhney/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
