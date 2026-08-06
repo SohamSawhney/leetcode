@@ -215,6 +215,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SohamSawhney/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/SohamSawhney/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/SohamSawhney/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSawhney/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/SohamSawhney/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2737-row-with-maximum-ones](https://github.com/SohamSawhney/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -413,6 +414,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SohamSawhney/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SohamSawhney/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/SohamSawhney/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/SohamSawhney/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -426,6 +428,7 @@
 | [0901-online-stock-span](https://github.com/SohamSawhney/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SohamSawhney/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamSawhney/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/SohamSawhney/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Depth-First Search
 |  |
 | ------- |
