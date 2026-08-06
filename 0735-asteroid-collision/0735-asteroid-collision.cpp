@@ -1,51 +1,54 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int>s;
+
+        stack<int>st;
+         
 
         for(int ast:asteroids){
-            if(ast<0 and !s.empty() and s.top()>0){
-                //start collision simulation 
-              bool  flag=true;
-                while(!s.empty() and s.top()>0){
-                
-                if(abs(ast)>s.top()){
-                    s.pop();
+            if(ast<0 and !st.empty() and st.top()>0){
+                bool  flag=true;
+
+                while(!st.empty() and st.top()>0){
+
+                    if(abs(ast)<st.top()){
+                        flag=false;
+                        break;
+                    }
+                    else if(abs(ast)==st.top()){
+                        st.pop();
+                        flag=false;
+                        break;
+                    }
+                    else{
+                        st.pop();
+                    }
                 }
-                else if(abs(ast)<s.top()){
-                    //ast will be destroyed
-                    flag=false;
-                    break;
-                }
-                else{
-                    //abs(ast)==s.top()
-                    // ast and abs both will be destroyed 
-                    flag=false;
-                    s.pop();
-                    break;
-                }
+                if(flag){
+                    st.push(ast);
                 }
 
-                if(flag){
-                    s.push(ast);
+
                 }
-            }
+        
 
             else{
-                s.push(ast);
+                st.push(ast);
             }
         }
-
-
-
-
         vector<int>ans;
-        while(!s.empty()){
-              ans.push_back(s.top());
-              s.pop();
+        int n=st.size();
+        for(int i=0;i<n;i++){
+            ans.push_back(st.top());
+            st.pop();
         }
-        reverse(ans.begin(),ans.end());
+     
 
-        return ans;
+     reverse(ans.begin(),ans.end());
+    
+
+
+    return ans;
+        
     }
 };
