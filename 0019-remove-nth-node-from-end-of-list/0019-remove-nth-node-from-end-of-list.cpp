@@ -37,7 +37,7 @@ public:
         }
         ListNode*temp=head;
 
-        for(int i=1;i<N-n;i++){
+        for(int i=0;i<N-n-1;i++){
              temp=temp->next;
         }
         ListNode*delNode=temp->next;
